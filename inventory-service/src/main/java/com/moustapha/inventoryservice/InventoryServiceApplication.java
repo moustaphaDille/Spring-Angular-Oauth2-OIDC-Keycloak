@@ -1,5 +1,4 @@
 package com.moustapha.inventoryservice;
-
 import com.moustapha.inventoryservice.entities.Product;
 import com.moustapha.inventoryservice.repository.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
